@@ -1,0 +1,10 @@
+.users-section {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.users-section p {
+    font-size: 16px;
+    margin: 16px;
+}

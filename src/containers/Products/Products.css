@@ -1,0 +1,10 @@
+.products-section {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.products-section p {
+    font-size: 16px;
+    margin: 16px;
+}
